@@ -1,0 +1,3 @@
+"npm init" inicializa un nuevo proyecto de Node.js donde,
+crea un archivo "package.json", lo cual almacena y contiene la informacion
+fundamental del proyecto, cripts, dependencias, etc 

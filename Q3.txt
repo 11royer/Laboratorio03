@@ -1,0 +1,9 @@
+¿Como se instalan los paquetes con yarn?
+utilizamos el comando "yarn add <paquete>"
+
+¿Como se borran los paquetes con yarn?
+utilizamos el comando "yarn <paquete>"
+
+¿Hay algun equivalente en yarn que haga lo mismo que npm init?
+"package.json" es equivalente a "npm init", ya que con el comando
+"npm init" inicializas un proceso y creas un archivo package.json

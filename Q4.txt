@@ -1,0 +1,9 @@
+¿Cómo elimino una rama creada en git? 
+"git branch -d feature/QA" es un comando para eliminar una rama como en el enunciado
+
+¿Por qué debería de usar la ramificación en proyectos?
+Las ramificaciones se pueden usar por muschas razones como por ejemplo:
+separar funcionalidades, controlar versiones, facilita la revision del codigo
+
+Si usted recibio un ticket [SEM-005], donde podemos indicar que esun nombre
+facil de identifical 
